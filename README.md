@@ -1,2 +1,2 @@
 # gimgam
-vidja
+vidja gmae
