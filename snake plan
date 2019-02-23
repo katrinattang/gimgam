@@ -1,0 +1,8 @@
+I'm going to make snake
+Need to define a border
+Need to make a food generator
+Need to make game end when collision with border or itself
+Border and snake will have the same properties so define the same way probably
+Need to make snake longer
+Need to find out how to set fps
+Need start and reset button
